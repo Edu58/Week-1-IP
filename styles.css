@@ -48,7 +48,7 @@
 }
 
 .home-banner .bold-slogan {
-  font-size: 2rem;
+  font-size: 3rem;
   font-weight: 700;
   margin-bottom: 2rem;
 }
@@ -67,7 +67,7 @@
 }
 
 .home-banner-image img {
-  height: 20rem;
+  height: 25rem;
   width: auto;
 }
 
@@ -232,5 +232,15 @@
 }
 
 .page-4 .discover {
-    font-size: 2rem;
+    font-size: 3rem;
+}
+
+.page-4 .appstores {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.page-4 .appstores img {
+    height: 10rem;
 }
