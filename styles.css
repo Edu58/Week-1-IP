@@ -21,13 +21,24 @@
   color: #f6b400;
 }
 
-.navbar,
-.navbar p {
+.navbar {
   display: flex;
   justify-content: space-around;
-  margin: 0 1.5rem;
   align-items: center;
-  font-weight: 600;
+}
+
+.navbar .nav-links {
+    display: flex;
+}
+
+.navbar .nav-links ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navbar .nav-links li {
+     margin-left: 1.5rem;
 }
 
 #nav-home {
