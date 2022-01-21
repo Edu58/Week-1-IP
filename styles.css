@@ -283,4 +283,11 @@ footer .newsletter button {
     color: white;
     width: 7rem;
     border: none;
+    cursor: pointer;
+}
+
+footer .end {
+    display: flex;
+    justify-content: space-around;align-items: center;
+    margin-top: 2rem;
 }
