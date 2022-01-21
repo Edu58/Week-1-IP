@@ -35,10 +35,25 @@
     list-style: none;
     display: flex;
     justify-content: space-evenly;
+    
 }
 
 .navbar .nav-links li {
      margin-left: 1.5rem;
+     transition: .2s all;
+}
+
+.navbar .nav-links li:hover {
+    border-bottom: 0.2rem solid #f68300;
+}
+
+
+.navbar .nav-links span {
+    background-color:#f6b400;
+    border-radius: 50%;
+    font-size: .5rem;
+    color: #e1ebe6;
+    padding: .5rem;
 }
 
 #nav-home {
