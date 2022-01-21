@@ -97,7 +97,7 @@
 }
 
 .menu {
-  margin-bottom: 10rem;
+  margin-bottom: 5rem;
 }
 
 .menu .our-menu {
@@ -243,4 +243,44 @@
 
 .page-4 .appstores img {
     height: 10rem;
+}
+
+.page-4 .mobile-app img {
+    border-radius: 20px;
+}
+
+footer {
+    margin-top: 2rem;
+}
+
+footer .first-row, .bottom-logo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer .first-row .bottom-logo span {
+    color: #f6b400;
+}
+
+footer .first-row ul {
+    list-style: none;
+    line-height: 2.5rem;
+}
+
+footer .newsletter input {
+    margin-top: 2rem;
+    height: 3rem;
+    width: auto;
+    border-radius: 10px 0 0 10px;
+    border-color: #bbb;
+    padding: 1rem;
+}
+
+footer .newsletter button {
+    height: 3rem;
+    background-color: #f6b400;
+    color: white;
+    width: 7rem;
+    border: none;
 }
