@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0;
   scroll-behavior: smooth;
+  text-decoration: none;
 }
 
 .logo {
@@ -49,11 +50,14 @@
 
 
 .navbar .nav-links span {
-    background-color:#f6b400;
+    background-color:#f68300;
     border-radius: 50%;
     font-size: .5rem;
     color: #e1ebe6;
-    padding: .5rem;
+    padding: .4rem;
+    position: absolute;
+    top: 2%;
+    right: 13%;
 }
 
 #nav-home {
@@ -90,6 +94,12 @@
   border: none;
   border-radius: 20px 20px 0 20px;
   color: #ffff;
+  cursor: pointer;
+  transition: .2s all;
+}
+
+.home-banner .slogan button:hover {
+    opacity: .7;
 }
 
 .home-banner-image img {
@@ -198,6 +208,7 @@
   padding: 0.5rem 1rem;
   border-radius: 10px;
   background-color: #e1ebe6;
+  cursor: pointer;
 }
 
 .page-3 {
