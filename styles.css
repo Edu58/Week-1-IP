@@ -289,5 +289,10 @@ footer .newsletter button {
 footer .end {
     display: flex;
     justify-content: space-around;align-items: center;
-    margin-top: 2rem;
+    margin-top: 2.5rem;
+}
+
+footer .end .socials i {
+    margin: 0 1rem;
+    font-size: 1.5rem;
 }
