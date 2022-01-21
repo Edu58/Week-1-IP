@@ -44,6 +44,10 @@
      transition: .2s all;
 }
 
+.navbar .nav-links li a {
+    color: black;
+}
+
 .navbar .nav-links li:hover {
     border-bottom: 0.2rem solid #f68300;
 }
@@ -100,6 +104,10 @@
 
 .home-banner .slogan button:hover {
     opacity: .7;
+}
+
+.home-banner .slogan button a {
+    color: white;
 }
 
 .home-banner-image img {
