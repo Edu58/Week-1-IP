@@ -221,3 +221,16 @@
 .page-3 img {
   height: 30rem;
 }
+
+
+.page-4 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #f6b400;
+    margin-top: 5rem;
+}
+
+.page-4 .discover {
+    font-size: 2rem;
+}
