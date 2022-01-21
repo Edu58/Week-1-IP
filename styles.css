@@ -153,9 +153,23 @@
     font-weight: 600;
 }
 
+.menu .first-row .money .number-of-burgers {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #E1EBE6;
+    border-radius: 10px;
+    padding: .2rem;
+}
+
+.menu .first-row .money .number-of-burgers p {
+    margin: .4rem;
+}
+
 .menu .first-row .money img {
     height: 2.5rem;
     padding: .5rem 1rem;
     border-radius: 10px;
     background-color: #E1EBE6;
 }
+
