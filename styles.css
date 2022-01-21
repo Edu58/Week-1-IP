@@ -94,3 +94,47 @@
     text-align: center;
     border-radius: 10px;
 }
+
+.menu {
+    margin-bottom: 10rem;
+}
+
+.menu .our-menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4rem;
+    width: 8rem;
+    border-bottom: 1.1rem solid #F6B400;
+}
+
+.menu span {
+    color: #F6B400;
+}
+
+.menu .first-row {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 4rem;
+}
+
+.menu .first-row .burger-menu {
+    width: 18rem;
+    height: auto;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow: 1px 8px 5px 4px rgba(20,20,20,0.4);
+}
+
+.menu .first-row img {
+    height: 7rem;
+    margin-bottom: 1rem;
+}
+
+.menu .first-row p {
+    font-size: .8rem;
+}
