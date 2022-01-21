@@ -1,0 +1,82 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo p {
+    font-size: 2rem;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.logo span {
+    color:  #F6B400;
+}
+
+.navbar, .navbar p {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 1.5rem;
+    align-items: center;
+    font-weight: 600;
+}
+
+#nav-home {
+    border-bottom: .2rem solid #f68300;
+}
+
+#wallet {
+    height: 1.6rem;
+    width: auto;
+    margin-left: 4rem;
+}
+
+.home-banner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 4rem;
+}
+
+.home-banner .bold-slogan {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+}
+
+.home-banner .slogan-description {
+    color: #606160;
+    margin-bottom: 4rem;
+}
+
+.home-banner .slogan button {
+    padding: 1rem 1.5rem;
+    background-color: #f68300;
+    border: none;
+    border-radius: 20px 20px 0 20px;
+    color: #ffff;
+}
+
+.home-banner-image img {
+    height: 20rem;
+    width: auto;
+}
+
+.page-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5rem;
+}
+
+.page-2 img {
+    height: 3rem;
+}
