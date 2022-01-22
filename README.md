@@ -8,6 +8,7 @@
 #### License: MIT
 #### Known Bugs: Not Mobile Responsive
 #### Technologies Used: HTML, CSS, Fontawesome, Vector images, Google Fonts
+#### View hosted project: https://edu58.github.io/Week-1-IP/
 #### contact: edumuriithi58@gmail.com
 
 ![This is the homepage](https://github.com/Edu58/Week-1-IP/blob/main/images/home.png)
