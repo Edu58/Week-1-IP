@@ -4,7 +4,7 @@
 #### Application Name: Burger Palace
 #### Contributors: none
 #### Project Purpose: Practice on HTML & CSS
-#### Installation: Clone repo and run inde.html in your browser
+#### Installation: Clone repo and run index.html in your browser
 #### License: MIT
 #### Known Bugs: Not Mobile Responsive
 #### Technologies Used: HTML, CSS, Fontawesome, Vector images, Google Fonts
