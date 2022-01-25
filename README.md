@@ -1,4 +1,3 @@
-# Week-1-IP
 # This is a Burger Palace Independent Project done on 21/01/2022
 
 #### Application Name: Burger Palace
